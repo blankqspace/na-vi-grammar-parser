@@ -14,7 +14,7 @@
 - **Visualization**: Creates POS distribution charts with pie and bar graphs
 - **Unified Reporting**: Generates comprehensive analysis reports in text format
 
-## Linguisctic features
+## Linguistic features
 **Supported Parts-of-speech**
 - **NOUN** - Nouns with case, number, and gender analysis
 - **VERB** - Verbs with transitivity and tense analysis  
